@@ -20,7 +20,7 @@ iris-analysis/
 
 ## How to run
 ```bash
-git clone https://github.com/<your-username>/iris-analysis.git
+git clone https://github.com/QuietCodinghs/iris-analysis.git
 cd iris-analysis
 python -m venv .venv
 source .venv/bin/activate      # Windows: .venv\Scripts\activate
